@@ -32,6 +32,13 @@ This repository is intended to support use of the CXLSeg by providing code for d
 - **utils** - additional utility functions
 - **preview-images.ipyb** - notebook to preview the original, segmented and mask image.
 
+## Usage
+- classification - First use the split.py script to create the train-test-validate datasets. Then use the train.py script to train the classification model. Finally, use the evaluate.py script to evaluate the model.
+- segmentation - First use the split.py script to create the train-test-validate datasets. Then use the train.py script to train the segmentation model. Finally, use the evaluate.py script to evaluate the model.
+- report generation - First use the split.py script to create the train-test-validate datasets. Currently, train or evaluate scripts are not available for report generation task.
+- preview-images.ipyb - notebook to preview the original, segmented and mask image.
+- sample images - folder containing sample images from the CXLSeg dataset.
+
 
 ## Important Notes
 This repository provide everything that you need to train classification, segmentation and report generation models.

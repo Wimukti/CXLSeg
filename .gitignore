@@ -1,1 +1,3 @@
 .idea
+classification/__pycache__
+segmentation/__pycache__
