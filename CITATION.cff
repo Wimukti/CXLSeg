@@ -2,25 +2,25 @@ cff-version: 1.2.0
 message: "If you use this code repository, please cite it as below."
 authors:
 - family-names: Nimalsiri
-given-names: Wimukthi
-affiliation: "Department of Computer Science and Engineering, University of Moratuwa, Moratuwa, Sri Lanka"
-email: "wimukthi.18@cse.mrt.ac.lk"
+  given-names: Wimukthi
+  affiliation: "Department of Computer Science and Engineering, University of Moratuwa, Moratuwa, Sri Lanka"
+  email: "wimukthi.18@cse.mrt.ac.lk"
 - family-names: Hennayake
-given-names: Mahela
-affiliation: "Department of Computer Science and Engineering, University of Moratuwa, Moratuwa, Sri Lanka"
-email: "mahela.18@cse.mrt.ac.lk"
+  given-names: Mahela
+  affiliation: "Department of Computer Science and Engineering, University of Moratuwa, Moratuwa, Sri Lanka"
+  email: "mahela.18@cse.mrt.ac.lk"
 - family-names: Rathnayake
-given-names: Kasun
-affiliation: "Department of Computer Science and Engineering, University of Moratuwa, Moratuwa, Sri Lanka"
-email: "kasunr.18@cse.mrt.ac.lk"
+  given-names: Kasun
+  affiliation: "Department of Computer Science and Engineering, University of Moratuwa, Moratuwa, Sri Lanka"
+  email: "kasunr.18@cse.mrt.ac.lk"
 - family-names: Ambegoda
-given-names: Thanuja D.
-affiliation: "Department of Computer Science and Engineering, University of Moratuwa, Moratuwa, Sri Lanka"
-email: "thanujaa@uom.lk"
+  given-names: Thanuja D.
+  affiliation: "Department of Computer Science and Engineering, University of Moratuwa, Moratuwa, Sri Lanka"
+  email: "thanujaa@uom.lk"
 - family-names: Meedeniya
-given-names: Dulani
-affiliation: "Department of Computer Science and Engineering, University of Moratuwa, Moratuwa, Sri Lanka"
-email: "dulanim@cse.mrt.ac.lk"
+  given-names: Dulani
+  affiliation: "Department of Computer Science and Engineering, University of Moratuwa, Moratuwa, Sri Lanka"
+  email: "dulanim@cse.mrt.ac.lk"
 title: "CXLSeg Dataset: Chest X-ray with Lung Segmentation"
 version: 1.0.0
 date-released: 2022-12-17
